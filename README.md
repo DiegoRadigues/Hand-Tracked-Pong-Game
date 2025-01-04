@@ -110,6 +110,25 @@ pip install opencv-python mediapipe pygame numpy
 Contributions are welcome to:  
 - Optimize performance.  
 - Fix bugs.  
-- Add new features and gameplay modes.  
+- Add new features and gameplay modes.
 
 ---
+
+## **10. Coding Aid and Tools**  
+
+The development of this project is based on **online tutorials** and **official documentation**.
+
+### **Key Resources Used:**  
+
+- **Mediapipe Documentation:**  
+  [Mediapipe Hands Solution Guide](https://google.github.io/mediapipe/solutions/hands.html)  
+  - Used for understanding **hand landmark detection** and accessing example code for **finger tracking**.  
+
+- **OpenCV Tutorials:**  
+  [OpenCV Python Tutorial](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
+  - Assisted in setting up **video feeds** and **preprocessing frames** for input to the **hand-tracking pipeline**.  
+
+- **Pygame Documentation:**  
+  [Pygame Documentation](https://www.pygame.org/docs/)  
+  - Provided examples for managing a simple game.
+
